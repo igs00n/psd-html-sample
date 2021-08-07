@@ -1,24 +1,6 @@
-# app
+# PSD to HTML Sample Site
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+COnvert sample PSD file using Photopedia and using VS Code editor
+to deploy an optimized and user friendly webpage equivalent.
+This project uses Vue.js as a the Javascript frontend framework 
+because of its simplicity and production-grade utilities.
